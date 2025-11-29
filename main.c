@@ -2,10 +2,9 @@
 
 int main(void) {
 
-  bool isBool;
-  int temp;
-  scanf("%d", &temp);
-  isBool = temp;
+  int h = 5;
 
-  printf("%d", isBool);
+  printf("num: %d", h);
+
+  return 0;
 }
